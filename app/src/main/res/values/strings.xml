@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="general_error">İşleminiz şu anda yapılamamaktadır. Daha sonra tekrar deneyiniz.</string>
+    <string name="not_connected_to_internet">Lütfen internet bağlantınızı kontrol ediniz.</string>
+    <string name="general_ok">Tamam</string>
+    <string name="date_picker_title">Tarih Seçiniz</string>
+</resources>
